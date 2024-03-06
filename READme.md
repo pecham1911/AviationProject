@@ -24,6 +24,8 @@ The data used for this analysis contains XXXX rows and XXXX columns. XXXX (consi
 #### An Interactive Dashboard with appropriate visuals 
 ## Conclusion
 ### Summary of conclusions including three relevant findings
+
+### LINKS TO THE JUPYTER NOTEBOOK AND PRESENTATION AND TABLEAU
     
 ### Resources
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses![image](https://github.com/pecham1911/AviationProject/assets/159095917/af560a9e-829c-4556-89eb-b7e772652093)
