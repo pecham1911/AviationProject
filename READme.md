@@ -1,15 +1,15 @@
 
 
-![image](https://github.com/pecham1911/AviationProject/assets/159095917/e69f9837-24be-4221-8814-e67a7ce79d0e)
 
 
 
-## A Match made in the Heavens: the perfect planes for our company
+
+## A Match made in the Heavens: the perfect planes for your company
 ## Overview
-This project aims to provide our company leadership with the best commercial and private airplane investment recommendations based on the risk of airplane destruction or fatality in an accident.
+This project aims to provide your company leadership with the best commercial and private airplane investment recommendations based on the risk of airplane destruction or fatality in an accident.
 The purchase price of airplanes can be exorbitant, but the costs of replacement and even more so, fatalities, can be astronomical.  
 ## Business Understanding
-Our company is diversifying its portfolio to include airplanes, but needs to conduct analysis considering the risk to determine the best planes to purchase. 
+Your company is diversifying its portfolio to include airplanes, but needs to conduct analysis considering the risk to determine the best planes to purchase. 
         
 ## Data Understanding and Analysis
 Data are sourced from the National Transportation Safety Board (NTSB) Aviation Investigations Accident/Incident database. "The NTSB aviation accident database contains civil aviation accidents and selected incidents that occurred from 1962 to present within the United States, its territories and possessions, and in international waters. Foreign investigations in which the NTSB participated as an accredited representative will also be listed." (https://www.ntsb.gov/Pages/AviationQueryV2.aspx; accessed 03/05/2024) Data were pulled for use in this analysis
@@ -27,6 +27,13 @@ The data used for this analysis contains XXXX rows and XXXX columns. XXXX (consi
             (e)
 #### Describe interesting techniques used to prepare/filter data Written interpretation of statistics which inform business questions
 ### Three visualizations (the same visualizations presented in the slides and notebook)
+<img width="358" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/3b51e7f2-2fa3-4579-939c-b7c15496609a">
+
+<img width="356" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/e40034d5-91fb-4846-b2b6-b7aa51f4cc09">
+
+<img width="365" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/f1fd084d-9907-4953-b030-55fb2081f21e">
+
+
 #### An Interactive Dashboard with appropriate visuals 
 ## Conclusion
 ### Summary of conclusions including three relevant findings
