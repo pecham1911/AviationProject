@@ -17,14 +17,10 @@ Data are sourced from the National Transportation Safety Board (NTSB) Aviation I
     
 ## Description of data
 ### Describe shape, important features and limitations
-The data used for this analysis contains XXXX rows and XXXX columns. XXXX (consider listing out) columns came directly from the data set. XXXX (list out) were generated----
-        Data were filterd to only include----
-        There are limitations to this dataset and analysis
-            (a) this database only contains accident/incident data and does not represent successful flights
-            (b) there is a large percent (XXXX) of null Aircraft Category values----
-            (c) this analysis did not filter out the Purpose of flight; some values in this column indicate more risky behavior than others and could have impacted the success of the flight. 
-            (d)
-            (e)
+The data used for this analysis contains 18017 rows and 21 columns. Columns: Event.Year, Make.Model, Fatal, and Commercial were all generated using the original NTSB dataset; the remaining columns came directly unaltered from the original data set. 
+        Data were filterd to exclude: (a) amateur built planes, (b) events occurring outside the United States, (c) aircraft other than airplanes (including null values), (d) any event with missing make or model, and (e) any event prior to the year 2000. The top 200 makes were printed out, reviewed for likeness, and combined as needed, e.g., Boeing company, BOEING, and Boeing were combined into one make. 
+        There are limitations to this dataset and analysis: (a) this database only contains accident/incident data and does not represent successful flights, (b) this analysis was limited to events with "airplane" listed in Aircraft.Category; with a large number (32%) of null Aircraft Category values many probable airplanes not specifically called out as such were dropped from the dataset. (c) this analysis did not filter out the Purpose.of.flight; some values in this column indicate more risky behavior than others and could have impacted the success of the flight. 
+           
 #### Describe interesting techniques used to prepare/filter data Written interpretation of statistics which inform business questions
 ### Three visualizations (the same visualizations presented in the slides and notebook)
 <img width="358" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/3b51e7f2-2fa3-4579-939c-b7c15496609a">
