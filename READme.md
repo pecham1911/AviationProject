@@ -24,13 +24,13 @@ The data used for this analysis contains 18017 rows and 21 columns. Columns: Eve
 #### Describe interesting techniques used to prepare/filter data Written interpretation of statistics which inform business questions
 ### Three visualizations (the same visualizations presented in the slides and notebook)
 
-![image](https://github.com/pecham1911/AviationProject/assets/159095917/c1c4787e-45ce-4df6-acc4-00ecfac4e812)
+<img width="361" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/b53b14ef-a445-451a-a3c9-e2b81d101aab">
 
 
-<img width="356" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/e40034d5-91fb-4846-b2b6-b7aa51f4cc09">
+<img width="370" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/da1db1a0-b078-40c7-a385-e421ec2c35c4">
 
-<img width="365" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/f1fd084d-9907-4953-b030-55fb2081f21e">
 
+<img width="368" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/825e27b6-428d-468d-9219-a4d36ea9b01e">
 
 #### An  Dashboard with appropriate visuals 
 ## Conclusion
