@@ -3,10 +3,8 @@
 
 
 
+## Commercial and Private Airplane Maker Recommendations 
 
-
-
-## A Match made in the Heavens: the perfect planes for your company
 ## Overview
 This project aims to provide your company leadership with the best commercial and private airplane investment recommendations based on the risk of airplane destruction or fatality in an accident.
 The purchase price of airplanes can be exorbitant, but the costs of replacement and even more so, fatalities, can be astronomical.  
