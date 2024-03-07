@@ -23,7 +23,9 @@ The data used for this analysis contains 18017 rows and 21 columns. Columns: Eve
            
 #### Describe interesting techniques used to prepare/filter data Written interpretation of statistics which inform business questions
 ### Three visualizations (the same visualizations presented in the slides and notebook)
-<img width="358" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/3b51e7f2-2fa3-4579-939c-b7c15496609a">
+
+![image](https://github.com/pecham1911/AviationProject/assets/159095917/c1c4787e-45ce-4df6-acc4-00ecfac4e812)
+
 
 <img width="356" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/e40034d5-91fb-4846-b2b6-b7aa51f4cc09">
 
