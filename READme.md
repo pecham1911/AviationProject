@@ -1,3 +1,5 @@
+![image](https://github.com/pecham1911/AviationProject/assets/159095917/49aa359d-4891-4691-ac7c-dedca0e19dcd)
+
 
 
 
@@ -30,7 +32,7 @@ The data used for this analysis contains 18017 rows and 21 columns. Columns: Eve
 <img width="365" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/f1fd084d-9907-4953-b030-55fb2081f21e">
 
 
-#### An Interactive Dashboard with appropriate visuals 
+#### An  Dashboard with appropriate visuals 
 ## Conclusion
 ### Summary of conclusions including three relevant findings
 
@@ -40,3 +42,6 @@ Make sure to also add and commit a PDF of your presentation to your repository w
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses![image](https://github.com/pecham1911/AviationProject/assets/159095917/af560a9e-829c-4556-89eb-b7e772652093)
 
 https://www.ntsb.gov/Pages/AviationDownloadDataDictionary.aspx![image](https://github.com/pecham1911/AviationProject/assets/159095917/a3dfbefc-0d92-4447-bea1-1660eadfba93)
+
+https://pixabay.com/photos/airbus-a380-aircraft-airplane-788573/
+
