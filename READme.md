@@ -52,6 +52,7 @@ There are limitations to this dataset and analysis: (a) this database only conta
 Aviation_Working.ipynb
 
 ##### PRESENTATION:
+https://github.com/pecham1911/AviationProject/blob/master/presentation/Commercial_and_Private_Airplane_Maker_Recommendations_Final.pdf
 
 ##### TABLEAU: 
 https://public.tableau.com/app/profile/william.howard8018/viz/CommericalPrivateAirplaneRecommendations/CommericalPrivateAirplaneMakerRecommendations
