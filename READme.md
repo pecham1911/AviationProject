@@ -50,8 +50,9 @@ There are limitations to this dataset and analysis: (a) this database only conta
 ### Resources
 ##### JUPYTER NOTEBOOK:
 ##### PRESENTATION:
-##### TABLEAU:
-Make sure to also add and commit a PDF of your presentation to your repository with a file name of presentation.pdf   
+##### TABLEAU: 
+https://public.tableau.com/app/profile/william.howard8018/viz/CommericalPrivateAirplaneRecommendations/CommericalPrivateAirplaneMakerRecommendations
+
 ##### Additional Resources
 Dataset:
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses![image](https://github.com/pecham1911/AviationProject/assets/159095917/af560a9e-829c-4556-89eb-b7e772652093); accessed 2024.03.01
