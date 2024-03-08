@@ -49,7 +49,7 @@ There are limitations to this dataset and analysis: (a) this database only conta
 
 ### Resources
 ##### JUPYTER NOTEBOOK:
-Aviation_Working.ipynb
+https://github.com/pecham1911/AviationProject/blob/master/Aviation_Working.ipynb
 
 ##### PRESENTATION:
 https://github.com/pecham1911/AviationProject/blob/master/presentation/Commercial_and_Private_Airplane_Maker_Recommendations_Final.pdf
