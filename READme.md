@@ -49,7 +49,10 @@ There are limitations to this dataset and analysis: (a) this database only conta
 
 ### Resources
 ##### JUPYTER NOTEBOOK:
+Aviation_Working.ipynb
+
 ##### PRESENTATION:
+
 ##### TABLEAU: 
 https://public.tableau.com/app/profile/william.howard8018/viz/CommericalPrivateAirplaneRecommendations/CommericalPrivateAirplaneMakerRecommendations
 
