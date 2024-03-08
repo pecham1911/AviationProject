@@ -42,8 +42,6 @@ There are limitations to this dataset and analysis: (a) this database only conta
 
 <img width="368" alt="image" src="https://github.com/pecham1911/AviationProject/assets/159095917/825e27b6-428d-468d-9219-a4d36ea9b01e">
 
-### Tableau Dashboard 
-
 ## Conclusion
 ##### Airbus and Bombardier are recommended as the best commercial and private airplane makers, respectively, based on risk of fatality and risk of plane destruction.
 
